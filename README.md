@@ -83,7 +83,7 @@ Three units are planned for different locations across the factory floor.
 - [x] Phase 2 — MQ135 calibrated, RZero ~240, reading 16-19 PPM indoors
 - [x] Phase 3 — DHT22 working, 33.3C, 64% humidity, heat index 42C
 - [x] Phase 4 — MAX4466 noise sensor working, home baseline peak-to-peak 32-78
-- [x] Phase 5 — SW-420 vibration sensor working, logic confirmed for this module
+- [x] Phase 5 — SW-420 vibration sensor working, logic confirmed for this module.
 - [ ] Phase 6 — All sensors integrated
 - [ ] Phase 7 — ThingSpeak WiFi logging
 - [ ] Phase 8 — Threshold alert system
