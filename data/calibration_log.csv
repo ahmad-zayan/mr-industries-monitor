@@ -1,0 +1,9 @@
+date,time,sensor,location,value1,value2,value3,notes
+2026-06-24,morning,MQ135,home-indoor,raw 1024,PPM nan,RZero -0.02,first power-on burn-in started
+2026-06-24,evening,MQ135,home-indoor,raw 78,PPM 31.55,RZero 194.4,burn-in complete first stable reading
+2026-06-28,daytime,DHT22,home-indoor,temp 33.3-33.4C,humidity 63.8-64.1%,heat index 41.8-42.2C,15 consistent samples
+2026-06-28,daytime,MQ135,home-indoor,raw 64-67,PPM 16.6-19.1,RZero 233-245,settled after burn-in drift
+2026-06-28,daytime,MAX4466,home-indoor,peak-to-peak 32-78,,,quiet home ambient baseline
+2026-06-28,daytime,SW420,home-indoor,HIGH=vibration confirmed,,,potentiometer mid-position
+2026-07-01,08:15,DHT22,home-outdoor-still,temp 31.9-32.0C,humidity 59.9-60.4%,heat index 36.8-37.1C,outdoor morning baseline no wind
+2026-07-01,08:30,DHT22,home-outdoor-breath,temp 31.9C,humidity 63-87% spike,heat index up to 47C,humidity spikes immediately on breath confirms sensor sensitivity
